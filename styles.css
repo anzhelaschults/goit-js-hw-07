@@ -1,0 +1,4 @@
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; }
+.gallery li { list-style: none; }
+.gallery img { width: 200px; height: 150px; object-fit: cover; }
+#boxes { display: flex; flex-wrap: wrap; gap: 4px; }
