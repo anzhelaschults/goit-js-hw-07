@@ -4,5 +4,5 @@ const images = [
   { url: "https://images.pexels.com/photos/219943/pexels-photo-219943.jpeg?dpr=2&h=750&w=1260", alt: "Group of Horses Running" },
 ];
 const gallery = document.querySelector('.gallery');
-const markup = images.map(({ url, alt }) => `<li><img src="${url}" alt="${alt}" /></li>`).join('');
+const markup = images.map(({ url, alt }) => `<li><img src="${url}" alt="${alt}" style="width:200px;height:150px;object-fit:cover;" /></li>`).join('');
 gallery.insertAdjacentHTML('beforeend', markup);
