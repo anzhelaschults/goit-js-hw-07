@@ -1,7 +1,7 @@
 # goit-js-hw-07
 
-Homework assignment for GoIT JavaScript course. Topic 12: DOM Model. Events.
-Домашнє завдання курсу JavaScript від GoIT. Тема 12: Модель DOM. Події.
+Homework assignment for Neoversity JavaScript course. Topic 12: DOM Model. Events.
+Домашнє завдання курсу JavaScript від Neoversity. Тема 12: Модель DOM. Події.
 
 ## Tasks / Завдання
 
